@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+requests
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-dotenv
